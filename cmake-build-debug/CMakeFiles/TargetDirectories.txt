@@ -1,0 +1,3 @@
+C:/Users/Alumnos/rod/cmake-build-debug/CMakeFiles/rod.dir
+C:/Users/Alumnos/rod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alumnos/rod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
