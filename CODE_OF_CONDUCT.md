@@ -1,1 +1,1 @@
-"Esto es un codigo de conducta" 
+"Esto es un codigo de conducta" "esto es el cambio la evolucion y es un codigo de condida, no me gutaria que el profe me borre todo, que alguien sin autorizacion lo edite, si es que alguien lo edita ponga comentarios"
